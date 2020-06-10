@@ -12,3 +12,4 @@ Blog: https://medium.com/@lindachen_ (I update weekly. I write about computer sc
 
 
 ## 3. How to read the files
+Please download the folder by clicking the top right corner. Then you can click on the file you want to check. The file will open in your broswer.
